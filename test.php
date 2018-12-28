@@ -7,3 +7,5 @@
  */
 
 echo 111111;
+
+\Sodium\crypto_pwhash()
